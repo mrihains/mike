@@ -167,12 +167,12 @@ export default function AccountPage() {
             <div className="py-6">
                 <div className="flex items-center gap-2 mb-4">
                     <h2 className="text-2xl font-medium font-serif">
-                        Usage Plan
+                        Plan
                     </h2>
                 </div>
                 <div>
                     <p className="text-base font-medium text-gray-500 capitalize">
-                        {profile?.tier || "Free"}
+                        AI Token Cost Only
                     </p>
                 </div>
             </div>

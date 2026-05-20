@@ -120,9 +120,7 @@ export default function LoginPage() {
                     </form>
                 </div>
                 <p className="text-center text-xs text-gray-500 leading-relaxed px-2">
-                    Without proper due diligence, please do not upload, submit, or store sensitive,
-                    confidential, privileged, client, or personally
-                    identifiable documents.
+                    
                 </p>
             </div>
         </div>

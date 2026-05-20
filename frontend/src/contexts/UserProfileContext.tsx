@@ -99,7 +99,7 @@ export function UserProfileProvider({ children }: { children: ReactNode }) {
                 messageCreditsUsed: 0,
                 creditsResetDate: futureResetDate.toISOString(),
                 creditsRemaining: 999999, // temporarily unlimited
-                tier: "Free",
+                tier: "Usage Only",
                 tabularModel: "gemini-3-flash-preview",
                 apiKeys: emptyApiKeys(),
             });
